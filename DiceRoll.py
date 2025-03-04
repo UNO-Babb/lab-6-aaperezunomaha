@@ -1,7 +1,7 @@
 #DiceRoll.py
-#Name:
-#Date:
-#Assignment:
+#Name:Antonio Perez
+#Date:MAR 4
+#Assignment:LAB 6
 import random
 
 def main():
@@ -12,7 +12,7 @@ def main():
   #find the sum total of the two dice
   
   #print statictics for dice rolls
-
+print()
 
 if __name__ == '__main__':
   main()
